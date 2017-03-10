@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hairDressersRegSys:Customer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:hairDressersRegSys="http://www.example.org/hairDressersRegSys" FirstName="Scarlette" LastName="Tompolton" Address="54 Eastpass Portsmouth PO2 GKO" CustomerId="1553">
+  <appointment StartTime="13:00" EndTime="13:30"/>
+</hairDressersRegSys:Customer>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hairDressersRegSys:ServiceEmployee xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:hairDressersRegSys="http://www.example.org/hairDressersRegSys" FirstName="Susan" LastName="Biggle" Address="43 Hamelton Road Portsmouth PO9 BHH" Role="Senior" EmployeeId="121"/>

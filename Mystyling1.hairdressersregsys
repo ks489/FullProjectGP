@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hairDressersRegSys:Styling xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:hairDressersRegSys="http://www.example.org/hairDressersRegSys" Name="Female Child Styling" Description="Styling for a female child" CostPerHour="22.0" IsWash="true"/>

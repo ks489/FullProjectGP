@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hairDressersRegSys:ServiceEmployee xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:hairDressersRegSys="http://www.example.org/hairDressersRegSys" FirstName="Hailey" LastName="Bothom" Address="3 Cool Road Portsmouth PO2 JKA" Role="Junior" EmployeeId="122"/>

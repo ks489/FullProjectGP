@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hairDressersRegSys:Haircuts xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:hairDressersRegSys="http://www.example.org/hairDressersRegSys" Name="Female Adult Haircut(full)" Description="A full haircut for an adult female" CostPerHour="55.0" IsWash="true" IsCut="true"/>
